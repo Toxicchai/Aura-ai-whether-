@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Ai Weather",
+  "description": "A premium, real-time weather application with dynamic atmospheric visuals, hourly/weekly forecasts, air quality metrics, and Gemini-powered weather insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
